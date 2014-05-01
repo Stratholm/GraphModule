@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1398932750 source:d:\documents and settings\admin\Мои документы\graphictest\main.cpp
+	<windows.h>
+	<stdio.h>
+	<conio.h>
+
